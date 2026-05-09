@@ -16,4 +16,4 @@ English Pronouns v2      https://app.wisemapping.com/c/maps/1010866/public
 English Questions        https://app.wisemapping.com/c/maps/1008907/public
 English Tenses           https://app.wisemapping.com/c/maps/1078039/public
 
-Editable versions of the maps are included in the archive "wisemapping_sources." You can import them into the platform and modify for your own needs.
+Editable versions of the maps are included in the archive "wisemapping_sources". You can import them into the platform and modify for your own needs.
